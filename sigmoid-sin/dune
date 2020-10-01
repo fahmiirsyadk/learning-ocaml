@@ -1,0 +1,1 @@
+(executable (name data) (libraries owl owl-plplot base))
