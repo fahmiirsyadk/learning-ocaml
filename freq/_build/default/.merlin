@@ -1,0 +1,14 @@
+EXCLUDE_QUERY_DIR
+B /home/fahmiirsyadk/.opam/4.06.1/lib/base
+B /home/fahmiirsyadk/.opam/4.06.1/lib/base/caml
+B /home/fahmiirsyadk/.opam/4.06.1/lib/base/shadow_stdlib
+B /home/fahmiirsyadk/.opam/4.06.1/lib/sexplib0
+B /home/fahmiirsyadk/.opam/4.06.1/lib/stdio
+B _build/default/.freq.eobjs/byte
+S /home/fahmiirsyadk/.opam/4.06.1/lib/base
+S /home/fahmiirsyadk/.opam/4.06.1/lib/base/caml
+S /home/fahmiirsyadk/.opam/4.06.1/lib/base/shadow_stdlib
+S /home/fahmiirsyadk/.opam/4.06.1/lib/sexplib0
+S /home/fahmiirsyadk/.opam/4.06.1/lib/stdio
+S .
+FLG -open Dune__exe -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs
